@@ -19,6 +19,12 @@ mdrenamer
 
 [*output_directory*] The directory to output the new MD renamed map in. This is optional and defaults to the directory <input_map> is in
 
-Additionally, the following constraint must be met:
+**Additional Constraints**:
 
 string_length(<short_name>) + string_length(<build_number>) < 13
+
+**See also**:
+
+[HaloMD Website](http://halomd.net)
+
+[Mac Gaming Mods Forums](http://macgamingmods.com/forum/)
