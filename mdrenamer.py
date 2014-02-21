@@ -138,5 +138,4 @@ if __name__ == '__main__':
 		print("Additionally, the following constraint must be met:")
 		print("string_length(<short_name>) + string_length(<build_number>) < 13")
 	else:
-		outputPath = mdRenameFile(sys.argv[1:])
-		print("Wrote re-named file to %s" % outputPath)
+		mdRenameFile(sys.argv[1:])
