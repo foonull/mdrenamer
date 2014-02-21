@@ -17,7 +17,7 @@ mdrenamer
 
 <*build_number*> The build number of the mod which is also used in the outputting filename. This should be increased before any sort of public or private distribution. Must be an integer >= 1
 
-[*output_directory*] The directory to output the new MD renamed map in. This is optional and defaults to the directory <input_map> is in
+[*output_directory*] The directory to output the new MD renamed map in. This is optional and defaults to the directory <*input_map*> is in.
 
 **Additional Constraints**:
 
@@ -25,7 +25,7 @@ string_length(<*short_name*>) + string_length(<*build_number*>) < 13
 
 **System Requirements:**
 
-* Python 2.7.x or 3.x (check python --version in a terminal)
+* Python 2.7.x or 3.x (check *python --version* in a terminal)
 
 **See also**:
 
