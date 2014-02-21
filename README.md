@@ -21,7 +21,7 @@ mdrenamer
 
 **Additional Constraints**:
 
-string_length(<short_name>) + string_length(<build_number>) < 13
+string_length(short_name) + string_length(build_number) < 13
 
 **System Requirements**
 
