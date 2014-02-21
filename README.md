@@ -23,6 +23,10 @@ mdrenamer
 
 string_length(<short_name>) + string_length(<build_number>) < 13
 
+**System Requirements**
+
+* Python 2.7.x or 3.x (check python --version in a terminal)
+
 **See also**:
 
 [HaloMD Website](http://halomd.net)
