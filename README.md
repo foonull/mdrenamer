@@ -3,7 +3,7 @@ mdrenamer
 
 **Description**: Command line tool version of MDRenamer for renaming Halo full maps to MD format.
 
-**Usage**: mdrenamer.py <input_map> <mod_name> <short_name> <build_number> [output_directory]
+**Usage**: mdrenamer.py <*input_map*> <*mod_name*> <*short_name*> <*build_number*> [*output_directory*]
 
 **Example**: python mdrenamer.py ~/Desktop/Maps/bloodgulch.map "Best Mod" bestmod 1
 
@@ -21,7 +21,7 @@ mdrenamer
 
 **Additional Constraints**:
 
-string_length(short_name) + string_length(build_number) < 13
+string_length(<*short_name*>) + string_length(<*build_number*>) < 13
 
 **System Requirements:**
 
