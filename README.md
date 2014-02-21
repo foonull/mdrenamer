@@ -23,7 +23,7 @@ mdrenamer
 
 string_length(short_name) + string_length(build_number) < 13
 
-**System Requirements**
+**System Requirements:**
 
 * Python 2.7.x or 3.x (check python --version in a terminal)
 
