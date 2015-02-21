@@ -1,6 +1,8 @@
 mdrenamer
 =========
 
+*NOTE*: This is quite outdated and not recommended to look at anymore. Recent versions of MD make renaming a whole lot easier.
+
 **Description**: Command line tool version of MDRenamer for renaming Halo full maps to MD format.
 
 **Usage**: mdrenamer.py <*input_map*> <*mod_name*> <*short_name*> <*build_number*> [*output_directory*]
